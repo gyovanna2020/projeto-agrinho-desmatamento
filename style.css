@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Chocolate+Classical+Sans&family=Rakkas&display=swap');
+
+/* Variáveis */
+:root {
+    --primary-color: #026773;
+    --secondary-color: #3CA6A6;
+    --text-color: #024959;
+    --background-color: #F2E3D5;
+    --button-hover: #012E40;
+    --font-body: "Chocolate Classical Sans", serif;
+    --font-titulo: "Rakkas", serif;
+}
+
+/* código omitido *//* código omitido */
+
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: var(--font-body);
+}
+
+/* Corpo da página */
+body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+    line-height: 1.6;
+}
+
+h3 {
+    margin-top: 25px;
+}
+
+p {
+    margin-top: 20px;
+}
+
+img {
+    max-width: 90%;
+}
+
+/* código omitido */<!-- código omitido -->
+
+<img src="cataratas-do-iguac.jpg" alt="Foto das Cataratas do Iguaçu, um lugar com muitas árvores e mata nativa preservada.">
+
+<!-- código omitido --><!-- código omitido -->
+
+<img src="cataratas-do-iguacu.jpg" alt="Foto das Cataratas do Iguaçu, um lugar com muitas árvores e mata nativa preservada.">
+
+<!-- código omitido --><!-- código omitido -->
+
+<a href="https://www.youtube.com/v=ILh7nDEKGqc&pp=ygUXSW1wYWN0byBkbyBEZXNtYXRhbWVudG8%3D" class="cta-button" target="_blank">Como impacta o mundo? <i class="fa-solid fa-arrow-up-right-from-square" style="color: var(--text-color);"></i></a>
+
+<!-- código omitido --><!-- código omitido -->
+
+<a href="https://www.youtube.com/watch?v=IIh7nDEkGqc&pp=ygUXSW1wYWN0byBkbyBEZXMgbWF0YW1lbnQ%3D" class="cta-button" target="_blank">Como impacta o mundo? <i class="fa-solid fa-arrow-up-right-from-square" style="color: var(--text-color);"></i></a>
+
+<!-- código omitido -->
